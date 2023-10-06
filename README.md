@@ -1,1 +1,5 @@
-# Sistemas_Procesamiento_Datos
+# Sistemas de Procesamiento Datos
+
+## Integrantes
+- Pardo Agustina
+- Sassone Irina
