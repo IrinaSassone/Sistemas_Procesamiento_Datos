@@ -12,4 +12,4 @@
 ## :cat: Funcion principal:
 
 ## :cat: Link al proyecto
-[proyecto](https://www.tinkercad.com/things/lNDwfBnh4Jw)
+[Link a Tinkercad](https://www.tinkercad.com/things/lNDwfBnh4Jw)
